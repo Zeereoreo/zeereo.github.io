@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+   background-color: aqua; 
+   font-size: large;
+   /* height: 30%; */
+}
+
+ul {
+    height: 20px;
+    width: 100%;
+    list-style-type: none;
+}
+
+li {
+    /* position: relative; */
+    text-align: center;
+    float: left;
+    height: 100%;
+    width: 10%;
+}
+/* ul {width:100%; position:relative;list-style:none;}
+li {position:relative; height:100%; width:25%; float:left;} */
+/* 
+.navbar-line{
+    flex: 0 1 auto;
+} */
